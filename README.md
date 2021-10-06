@@ -1,0 +1,2 @@
+# ipo-assignment (Java)
+The purpose of the program is to solve three math problems. Two problems will be based on user input, the third will use randomly generated numbers as values from user input range. (Questions: Solving a quadratic equation using the quadratic formula, Calculating the distance between two points given their x and y coordinates, Calculating the slope of a line given two points on the line.)
